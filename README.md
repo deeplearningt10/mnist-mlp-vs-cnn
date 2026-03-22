@@ -35,7 +35,7 @@ Comparison of a **fully connected neural network (MLP)** and a **convolutional n
 
 ## How to run
 
-### Option A — Kaggle (recommended)
+Kaggle (recommended)
 
 1. Create a Kaggle Notebook with **GPU** (optional) and **Internet** enabled (if needed for `mnist.load_data()`).
 2. Upload this notebook or copy its cells.
