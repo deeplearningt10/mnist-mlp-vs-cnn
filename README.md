@@ -41,10 +41,3 @@ Comparison of a **fully connected neural network (MLP)** and a **convolutional n
 2. Upload this notebook or copy its cells.
 3. **Run all cells** (or **Save Version → Save & Run All** on Kaggle).
 
-### Option B — Local (Jupyter)
-
-1. Install Python **3.10+** (recommended).
-2. Install dependencies:
-
-```bash
-pip install tensorflow scikit-learn matplotlib numpy
