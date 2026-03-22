@@ -1,3 +1,9 @@
+SWE012 - Deep Learning with Python 
+TEAM ( FCB )
+
+
+
+
 # MNIST Image Classification: MLP vs CNN
 
 Comparison of a **fully connected neural network (MLP)** and a **convolutional neural network (CNN)** on the **MNIST** handwritten digit dataset (10 classes, 28×28 grayscale images).
@@ -41,3 +47,4 @@ Kaggle (recommended)
 2. Upload this notebook or copy its cells.
 3. **Run all cells** (or **Save Version → Save & Run All** on Kaggle).
 
+YOU CAN SEE OUR WORK ON KAGGLE : https://www.kaggle.com/code/deeplearningt10/deep-learning-fcb
